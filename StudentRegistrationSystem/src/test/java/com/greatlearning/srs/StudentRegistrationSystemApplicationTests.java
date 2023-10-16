@@ -10,4 +10,4 @@ class StudentRegistrationSystemApplicationTests {
 	void contextLoads() {
 	}
 
-}
+} 
