@@ -1,6 +1,6 @@
 package com.greatlearning.srs.demo;
 
-public class ScenarioNOMethodChainingDemo {
+public class ScenarioNOMethodChainingDemo { 
 
 	//
 	// Web Application -> resources()
