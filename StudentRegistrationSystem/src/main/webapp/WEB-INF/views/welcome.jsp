@@ -1,4 +1,4 @@
-<html>
+<html> 
 
     <title>Students Registration Application</title>
     
