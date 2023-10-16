@@ -1,6 +1,6 @@
 package com.greatlearning.srs.demo;
 
-public class Employee {
+public class Employee { 
 
 	private String empId;
 	private String empName;
